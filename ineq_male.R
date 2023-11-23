@@ -6,10 +6,8 @@ setwd("C:/Users/jordav/OneDrive - UNICAN/Art?culos/Paper on lifespan inequality/
 
 data.bs <- read.csv("life_tables_all.csv", header=T)
 nrow(data.bs)
-# We divide the data into sexes
+# Keep only data on female population
 data.men <- data.bs[data.bs$Sex == "Male", ]
-data.wo <- data.bs[data.bs$Sex == "Female", ]
-data.tot <- data.bs[data.bs$Sex == "Total", ]
 rm(data.bs)
 
 # Country-level lifespan inequality
