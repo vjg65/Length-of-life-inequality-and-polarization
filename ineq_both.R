@@ -29,9 +29,7 @@ data.bs$Location[data.bs$Location =="United States Virgin Islands"]<-"Virgin Isl
 data.bs$Location[data.bs$Location =="Venezuela (Bolivarian Republic of)"]<-"Venezuela"
 data.bs$Location[data.bs$Location =="Viet Nam"]<-"Vietnam"
 
-# We divide the data into sexes
-data.men <- data.bs[data.bs$Sex == "Male", ]
-data.wo <- data.bs[data.bs$Sex == "Female", ]
+# # Keep only data on total population
 data.tot <- data.bs[data.bs$Sex == "Total", ]
 rm(data.bs)
 
