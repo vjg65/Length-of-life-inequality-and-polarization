@@ -1,4 +1,6 @@
+##################################################################
 # Comparing our estimates of LE with those publised by UN-DESA
+##################################################################
 un.data <- read.csv("le_undesa.csv", header =T, sep = ";")
 names(un.data)
 our.data <- read.csv("ineq_pol_both.csv", header =T, sep = ";")
