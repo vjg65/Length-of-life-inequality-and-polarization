@@ -1,0 +1,260 @@
+﻿country;country_code;ISO3;ISO2;area_type_name;SDG_reg_name;WB_inc_name;WB_reg_name
+American Samoa;16;ASM;AS;Country/Area;Oceania (excluding Australia and New Zealand);Upper-middle-income Countries;East Asia and the Pacific
+Australia;36;AUS;AU;Country/Area;Australia/New Zealand;High-income Countries;East Asia and the Pacific
+Brunei Darussalam;96;BRN;BN;Country/Area;Eastern and South-Eastern Asia;High-income Countries;East Asia and the Pacific
+Cambodia;116;KHM;KH;Country/Area;Eastern and South-Eastern Asia;Lower-middle-income Countries;East Asia and the Pacific
+China;156;CHN;CN;Country/Area;Eastern and South-Eastern Asia;Upper-middle-income Countries;East Asia and the Pacific
+China, Hong Kong SAR;344;HKG;HK;Country/Area;Eastern and South-Eastern Asia;High-income Countries;East Asia and the Pacific
+China, Macao SAR;446;MAC;MO;Country/Area;Eastern and South-Eastern Asia;High-income Countries;East Asia and the Pacific
+China, Taiwan Province of China;158;TWN;TW;Country/Area;Eastern and South-Eastern Asia;High-income Countries;East Asia and the Pacific
+Dem. People's Republic of Korea;408;PRK;KP;Country/Area;Eastern and South-Eastern Asia;Low-income Countries;East Asia and the Pacific
+Fiji;242;FJI;FJ;Country/Area;Oceania (excluding Australia and New Zealand);Upper-middle-income Countries;East Asia and the Pacific
+French Polynesia;258;PYF;PF;Country/Area;Oceania (excluding Australia and New Zealand);High-income Countries;East Asia and the Pacific
+Guam;316;GUM;GU;Country/Area;Oceania (excluding Australia and New Zealand);High-income Countries;East Asia and the Pacific
+Indonesia;360;IDN;ID;Country/Area;Eastern and South-Eastern Asia;Lower-middle-income Countries;East Asia and the Pacific
+Japan;392;JPN;JP;Country/Area;Eastern and South-Eastern Asia;High-income Countries;East Asia and the Pacific
+Kiribati;296;KIR;KI;Country/Area;Oceania (excluding Australia and New Zealand);Lower-middle-income Countries;East Asia and the Pacific
+Lao People's Democratic Republic;418;LAO;LA;Country/Area;Eastern and South-Eastern Asia;Lower-middle-income Countries;East Asia and the Pacific
+Malaysia;458;MYS;MY;Country/Area;Eastern and South-Eastern Asia;Upper-middle-income Countries;East Asia and the Pacific
+Marshall Islands;584;MHL;MH;Country/Area;Oceania (excluding Australia and New Zealand);Upper-middle-income Countries;East Asia and the Pacific
+Micronesia (Fed. States of);583;FSM;FM;Country/Area;Oceania (excluding Australia and New Zealand);Lower-middle-income Countries;East Asia and the Pacific
+Mongolia;496;MNG;MN;Country/Area;Eastern and South-Eastern Asia;Lower-middle-income Countries;East Asia and the Pacific
+Myanmar;104;MMR;MM;Country/Area;Eastern and South-Eastern Asia;Lower-middle-income Countries;East Asia and the Pacific
+Nauru;520;NRU;NR;Country/Area;Oceania (excluding Australia and New Zealand);High-income Countries;East Asia and the Pacific
+New Caledonia;540;NCL;NC;Country/Area;Oceania (excluding Australia and New Zealand);High-income Countries;East Asia and the Pacific
+New Zealand;554;NZL;NZ;Country/Area;Australia/New Zealand;High-income Countries;East Asia and the Pacific
+Northern Mariana Islands;580;MNP;MP;Country/Area;Oceania (excluding Australia and New Zealand);High-income Countries;East Asia and the Pacific
+Palau;585;PLW;PW;Country/Area;Oceania (excluding Australia and New Zealand);Upper-middle-income Countries;East Asia and the Pacific
+Papua New Guinea;598;PNG;PG;Country/Area;Oceania (excluding Australia and New Zealand);Lower-middle-income Countries;East Asia and the Pacific
+Philippines;608;PHL;PH;Country/Area;Eastern and South-Eastern Asia;Lower-middle-income Countries;East Asia and the Pacific
+Republic of Korea;410;KOR;KR;Country/Area;Eastern and South-Eastern Asia;High-income Countries;East Asia and the Pacific
+Samoa;882;WSM;WS;Country/Area;Oceania (excluding Australia and New Zealand);Lower-middle-income Countries;East Asia and the Pacific
+Singapore;702;SGP;SG;Country/Area;Eastern and South-Eastern Asia;High-income Countries;East Asia and the Pacific
+Solomon Islands;90;SLB;SB;Country/Area;Oceania (excluding Australia and New Zealand);Lower-middle-income Countries;East Asia and the Pacific
+Thailand;764;THA;TH;Country/Area;Eastern and South-Eastern Asia;Upper-middle-income Countries;East Asia and the Pacific
+Timor-Leste;626;TLS;TL;Country/Area;Eastern and South-Eastern Asia;Lower-middle-income Countries;East Asia and the Pacific
+Tonga;776;TON;TO;Country/Area;Oceania (excluding Australia and New Zealand);Upper-middle-income Countries;East Asia and the Pacific
+Tuvalu;798;TUV;TV;Country/Area;Oceania (excluding Australia and New Zealand);Upper-middle-income Countries;East Asia and the Pacific
+Vanuatu;548;VUT;VU;Country/Area;Oceania (excluding Australia and New Zealand);Lower-middle-income Countries;East Asia and the Pacific
+Viet Nam;704;VNM;VN;Country/Area;Eastern and South-Eastern Asia;Lower-middle-income Countries;East Asia and the Pacific
+Albania;8;ALB;AL;Country/Area;Europe and Northern America;Upper-middle-income Countries;Europe and Central Asia
+Andorra;20;AND;AD;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Armenia;51;ARM;AM;Country/Area;Northern Africa and Western Asia;Upper-middle-income Countries;Europe and Central Asia
+Austria;40;AUT;AT;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Azerbaijan;31;AZE;AZ;Country/Area;Northern Africa and Western Asia;Upper-middle-income Countries;Europe and Central Asia
+Belarus;112;BLR;BY;Country/Area;Europe and Northern America;Upper-middle-income Countries;Europe and Central Asia
+Belgium;56;BEL;BE;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Bosnia and Herzegovina;70;BIH;BA;Country/Area;Europe and Northern America;Upper-middle-income Countries;Europe and Central Asia
+Bulgaria;100;BGR;BG;Country/Area;Europe and Northern America;Upper-middle-income Countries;Europe and Central Asia
+Croatia;191;HRV;HR;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Cyprus;196;CYP;CY;Country/Area;Northern Africa and Western Asia;High-income Countries;Europe and Central Asia
+Czechia;203;CZE;CZ;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Denmark;208;DNK;DK;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Estonia;233;EST;EE;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Faroe Islands;234;FRO;FO;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Finland;246;FIN;FI;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+France;250;FRA;FR;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Georgia;268;GEO;GE;Country/Area;Northern Africa and Western Asia;Upper-middle-income Countries;Europe and Central Asia
+Germany;276;DEU;DE;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Gibraltar;292;GIB;GI;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Greece;300;GRC;GR;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Greenland;304;GRL;GL;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Hungary;348;HUN;HU;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Iceland;352;ISL;IS;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Ireland;372;IRL;IE;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Isle of Man;833;IMN;IM;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Italy;380;ITA;IT;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Kazakhstan;398;KAZ;KZ;Country/Area;Central and Southern Asia;Upper-middle-income Countries;Europe and Central Asia
+Kosovo (under UNSC res. 1244);412;XKX;XK;Country/Area;Europe and Northern America;Upper-middle-income Countries;Europe and Central Asia
+Kyrgyzstan;417;KGZ;KG;Country/Area;Central and Southern Asia;Lower-middle-income Countries;Europe and Central Asia
+Latvia;428;LVA;LV;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Liechtenstein;438;LIE;LI;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Lithuania;440;LTU;LT;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Luxembourg;442;LUX;LU;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Monaco;492;MCO;MC;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Montenegro;499;MNE;ME;Country/Area;Europe and Northern America;Upper-middle-income Countries;Europe and Central Asia
+Netherlands;528;NLD;NL;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+North Macedonia;807;MKD;MK;Country/Area;Europe and Northern America;Upper-middle-income Countries;Europe and Central Asia
+Norway;578;NOR;NO;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Poland;616;POL;PL;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Portugal;620;PRT;PT;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Republic of Moldova;498;MDA;MD;Country/Area;Europe and Northern America;Upper-middle-income Countries;Europe and Central Asia
+Romania;642;ROU;RO;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Russian Federation;643;RUS;RU;Country/Area;Europe and Northern America;Upper-middle-income Countries;Europe and Central Asia
+San Marino;674;SMR;SM;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Serbia;688;SRB;RS;Country/Area;Europe and Northern America;Upper-middle-income Countries;Europe and Central Asia
+Slovakia;703;SVK;SK;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Slovenia;705;SVN;SI;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Spain;724;ESP;ES;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Sweden;752;SWE;SE;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Switzerland;756;CHE;CH;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Tajikistan;762;TJK;TJ;Country/Area;Central and Southern Asia;Lower-middle-income Countries;Europe and Central Asia
+Türkiye;792;TUR;TR;Country/Area;Northern Africa and Western Asia;Upper-middle-income Countries;Europe and Central Asia
+Turkmenistan;795;TKM;TM;Country/Area;Central and Southern Asia;Upper-middle-income Countries;Europe and Central Asia
+Ukraine;804;UKR;UA;Country/Area;Europe and Northern America;Lower-middle-income Countries;Europe and Central Asia
+United Kingdom;826;GBR;GB;Country/Area;Europe and Northern America;High-income Countries;Europe and Central Asia
+Uzbekistan;860;UZB;UZ;Country/Area;Central and Southern Asia;Lower-middle-income Countries;Europe and Central Asia
+Antigua and Barbuda;28;ATG;AG;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Argentina;32;ARG;AR;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Aruba;533;ABW;AW;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Bahamas;44;BHS;BS;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Barbados;52;BRB;BB;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Belize;84;BLZ;BZ;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Bolivia (Plurinational State of);68;BOL;BO;Country/Area;Latin America and the Caribbean;Lower-middle-income Countries;Latin America and the Caribbean
+Brazil;76;BRA;BR;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+British Virgin Islands;92;VGB;VG;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Cayman Islands;136;CYM;KY;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Chile;152;CHL;CL;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Colombia;170;COL;CO;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Costa Rica;188;CRI;CR;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Cuba;192;CUB;CU;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Curaçao;531;CUW;CW;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Dominica;212;DMA;DM;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Dominican Republic;214;DOM;DO;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Ecuador;218;ECU;EC;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+El Salvador;222;SLV;SV;Country/Area;Latin America and the Caribbean;Lower-middle-income Countries;Latin America and the Caribbean
+Grenada;308;GRD;GD;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Guatemala;320;GTM;GT;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Guyana;328;GUY;GY;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Haiti;332;HTI;HT;Country/Area;Latin America and the Caribbean;Lower-middle-income Countries;Latin America and the Caribbean
+Honduras;340;HND;HN;Country/Area;Latin America and the Caribbean;Lower-middle-income Countries;Latin America and the Caribbean
+Jamaica;388;JAM;JM;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Mexico;484;MEX;MX;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Nicaragua;558;NIC;NI;Country/Area;Latin America and the Caribbean;Lower-middle-income Countries;Latin America and the Caribbean
+Panama;591;PAN;PA;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Paraguay;600;PRY;PY;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Peru;604;PER;PE;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Puerto Rico;630;PRI;PR;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Saint Kitts and Nevis;659;KNA;KN;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Saint Lucia;662;LCA;LC;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Saint Martin (French part);663;MAF;MF;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Saint Vincent and the Grenadines;670;VCT;VC;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Sint Maarten (Dutch part);534;SXM;SX;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Suriname;740;SUR;SR;Country/Area;Latin America and the Caribbean;Upper-middle-income Countries;Latin America and the Caribbean
+Trinidad and Tobago;780;TTO;TT;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Turks and Caicos Islands;796;TCA;TC;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+United States Virgin Islands;850;VIR;VI;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Uruguay;858;URY;UY;Country/Area;Latin America and the Caribbean;High-income Countries;Latin America and the Caribbean
+Venezuela (Bolivarian Republic of);862;VEN;VE;Country/Area;Latin America and the Caribbean;Income group not available;Latin America and the Caribbean
+Algeria;12;DZA;DZ;Country/Area;Northern Africa and Western Asia;Lower-middle-income Countries;Middle East and North Africa
+Bahrain;48;BHR;BH;Country/Area;Northern Africa and Western Asia;High-income Countries;Middle East and North Africa
+Djibouti;262;DJI;DJ;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Middle East and North Africa
+Egypt;818;EGY;EG;Country/Area;Northern Africa and Western Asia;Lower-middle-income Countries;Middle East and North Africa
+Iran (Islamic Republic of);364;IRN;IR;Country/Area;Central and Southern Asia;Lower-middle-income Countries;Middle East and North Africa
+Iraq;368;IRQ;IQ;Country/Area;Northern Africa and Western Asia;Upper-middle-income Countries;Middle East and North Africa
+Israel;376;ISR;IL;Country/Area;Northern Africa and Western Asia;High-income Countries;Middle East and North Africa
+Jordan;400;JOR;JO;Country/Area;Northern Africa and Western Asia;Upper-middle-income Countries;Middle East and North Africa
+Kuwait;414;KWT;KW;Country/Area;Northern Africa and Western Asia;High-income Countries;Middle East and North Africa
+Lebanon;422;LBN;LB;Country/Area;Northern Africa and Western Asia;Lower-middle-income Countries;Middle East and North Africa
+Libya;434;LBY;LY;Country/Area;Northern Africa and Western Asia;Upper-middle-income Countries;Middle East and North Africa
+Malta;470;MLT;MT;Country/Area;Europe and Northern America;High-income Countries;Middle East and North Africa
+Morocco;504;MAR;MA;Country/Area;Northern Africa and Western Asia;Lower-middle-income Countries;Middle East and North Africa
+Oman;512;OMN;OM;Country/Area;Northern Africa and Western Asia;High-income Countries;Middle East and North Africa
+Qatar;634;QAT;QA;Country/Area;Northern Africa and Western Asia;High-income Countries;Middle East and North Africa
+Saudi Arabia;682;SAU;SA;Country/Area;Northern Africa and Western Asia;High-income Countries;Middle East and North Africa
+Syrian Arab Republic;760;SYR;SY;Country/Area;Northern Africa and Western Asia;Low-income Countries;Middle East and North Africa
+Tunisia;788;TUN;TN;Country/Area;Northern Africa and Western Asia;Lower-middle-income Countries;Middle East and North Africa
+United Arab Emirates;784;ARE;AE;Country/Area;Northern Africa and Western Asia;High-income Countries;Middle East and North Africa
+Yemen;887;YEM;YE;Country/Area;Northern Africa and Western Asia;Low-income Countries;Middle East and North Africa
+Anguilla;660;AIA;AI;Country/Area;Latin America and the Caribbean;Income group not available;NA
+Australia/New Zealand;1836;NA;NA;SDG region;NA;NA;NA
+Bonaire, Sint Eustatius and Saba;535;BES;BQ;Country/Area;Latin America and the Caribbean;Income group not available;NA
+Central and Southern Asia;1831;NA;NA;SDG region;NA;NA;NA
+Cook Islands;184;COK;CK;Country/Area;Oceania (excluding Australia and New Zealand);Income group not available;NA
+Eastern and South-Eastern Asia;1832;NA;NA;SDG region;NA;NA;NA
+Europe and Northern America;1829;NA;NA;SDG region;NA;NA;NA
+Falkland Islands (Malvinas);238;FLK;FK;Country/Area;Latin America and the Caribbean;Income group not available;NA
+French Guiana;254;GUF;GF;Country/Area;Latin America and the Caribbean;High-income Countries;NA
+Guadeloupe;312;GLP;GP;Country/Area;Latin America and the Caribbean;High-income Countries;NA
+Guernsey;831;GGY;GG;Country/Area;Europe and Northern America;High-income Countries;NA
+High-income countries;1503;NA;NA;Income group;NA;NA;NA
+Holy See;336;VAT;VA;Country/Area;Europe and Northern America;Income group not available;NA
+Jersey;832;JEY;JE;Country/Area;Europe and Northern America;High-income Countries;NA
+Land-locked Developing Countries (LLDC);1636;NA;NA;Development group;NA;NA;NA
+Latin America and the Caribbean;1830;NA;NA;SDG region;NA;NA;NA
+Least developed countries;941;NA;NA;Development group;NA;NA;NA
+Less developed regions;902;NA;NA;Development group;NA;NA;NA
+Less developed regions, excluding China;948;NA;NA;Development group;NA;NA;NA
+Less developed regions, excluding least developed countries;934;NA;NA;Development group;NA;NA;NA
+Lower-middle-income countries;1501;NA;NA;Income group;NA;NA;NA
+Low-income countries;1500;NA;NA;Income group;NA;NA;NA
+Martinique;474;MTQ;MQ;Country/Area;Latin America and the Caribbean;High-income Countries;NA
+Mayotte;175;MYT;YT;Country/Area;Sub-Saharan Africa;High-income Countries;NA
+Middle-income countries;1517;NA;NA;Income group;NA;NA;NA
+Montserrat;500;MSR;MS;Country/Area;Latin America and the Caribbean;Income group not available;NA
+More developed regions;901;NA;NA;Development group;NA;NA;NA
+Niue;570;NIU;NU;Country/Area;Oceania (excluding Australia and New Zealand);Income group not available;NA
+No income group available;1518;NA;NA;Income group;NA;NA;NA
+Northern Africa and Western Asia;1833;NA;NA;SDG region;NA;NA;NA
+Oceania (excluding Australia and New Zealand);1835;NA;NA;SDG region;NA;NA;NA
+Réunion;638;REU;RE;Country/Area;Sub-Saharan Africa;High-income Countries;NA
+Saint Barthélemy;652;BLM;BL;Country/Area;Latin America and the Caribbean;High-income Countries;NA
+Saint Helena;654;SHN;SH;Country/Area;Sub-Saharan Africa;Income group not available;NA
+Saint Pierre and Miquelon;666;SPM;PM;Country/Area;Europe and Northern America;High-income Countries;NA
+Small island developing States (SIDS);1637;NA;NA;Development group;NA;NA;NA
+State of Palestine;275;PSE;PS;Country/Area;Northern Africa and Western Asia;Lower-middle-income Countries;NA
+Sub-Saharan Africa;1834;NA;NA;SDG region;NA;NA;NA
+Tokelau;772;TKL;TK;Country/Area;Oceania (excluding Australia and New Zealand);Income group not available;NA
+Upper-middle-income countries;1502;NA;NA;Income group;NA;NA;NA
+Wallis and Futuna Islands;876;WLF;WF;Country/Area;Oceania (excluding Australia and New Zealand);Income group not available;NA
+Western Sahara;732;ESH;EH;Country/Area;Northern Africa and Western Asia;Income group not available;NA
+WORLD;900;NA;NA;World;NA;NA;NA
+Bermuda;60;BMU;BM;Country/Area;Europe and Northern America;High-income Countries;North America
+Canada;124;CAN;CA;Country/Area;Europe and Northern America;High-income Countries;North America
+United States of America;840;USA;US;Country/Area;Europe and Northern America;High-income Countries;North America
+Afghanistan;4;AFG;AF;Country/Area;Central and Southern Asia;Low-income Countries;South Asia
+Bangladesh;50;BGD;BD;Country/Area;Central and Southern Asia;Lower-middle-income Countries;South Asia
+Bhutan;64;BTN;BT;Country/Area;Central and Southern Asia;Lower-middle-income Countries;South Asia
+India;356;IND;IN;Country/Area;Central and Southern Asia;Lower-middle-income Countries;South Asia
+Maldives;462;MDV;MV;Country/Area;Central and Southern Asia;Upper-middle-income Countries;South Asia
+Nepal;524;NPL;NP;Country/Area;Central and Southern Asia;Lower-middle-income Countries;South Asia
+Pakistan;586;PAK;PK;Country/Area;Central and Southern Asia;Lower-middle-income Countries;South Asia
+Sri Lanka;144;LKA;LK;Country/Area;Central and Southern Asia;Lower-middle-income Countries;South Asia
+Angola;24;AGO;AO;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Benin;204;BEN;BJ;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Botswana;72;BWA;BW;Country/Area;Sub-Saharan Africa;Upper-middle-income Countries;Sub-Saharan Africa
+Burkina Faso;854;BFA;BF;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Burundi;108;BDI;BI;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Cabo Verde;132;CPV;CV;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Cameroon;120;CMR;CM;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Central African Republic;140;CAF;CF;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Chad;148;TCD;TD;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Comoros;174;COM;KM;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Congo;178;COG;CG;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Côte d'Ivoire;384;CIV;CI;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Democratic Republic of the Congo;180;COD;CD;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Equatorial Guinea;226;GNQ;GQ;Country/Area;Sub-Saharan Africa;Upper-middle-income Countries;Sub-Saharan Africa
+Eritrea;232;ERI;ER;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Eswatini;748;SWZ;SZ;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Ethiopia;231;ETH;ET;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Gabon;266;GAB;GA;Country/Area;Sub-Saharan Africa;Upper-middle-income Countries;Sub-Saharan Africa
+Gambia;270;GMB;GM;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Ghana;288;GHA;GH;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Guinea;324;GIN;GN;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Guinea-Bissau;624;GNB;GW;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Kenya;404;KEN;KE;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Lesotho;426;LSO;LS;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Liberia;430;LBR;LR;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Madagascar;450;MDG;MG;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Malawi;454;MWI;MW;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Mali;466;MLI;ML;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Mauritania;478;MRT;MR;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Mauritius;480;MUS;MU;Country/Area;Sub-Saharan Africa;Upper-middle-income Countries;Sub-Saharan Africa
+Mozambique;508;MOZ;MZ;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Namibia;516;NAM;NA;Country/Area;Sub-Saharan Africa;Upper-middle-income Countries;Sub-Saharan Africa
+Niger;562;NER;NE;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Nigeria;566;NGA;NG;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Rwanda;646;RWA;RW;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Sao Tome and Principe;678;STP;ST;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Senegal;686;SEN;SN;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Seychelles;690;SYC;SC;Country/Area;Sub-Saharan Africa;High-income Countries;Sub-Saharan Africa
+Sierra Leone;694;SLE;SL;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Somalia;706;SOM;SO;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+South Africa;710;ZAF;ZA;Country/Area;Sub-Saharan Africa;Upper-middle-income Countries;Sub-Saharan Africa
+South Sudan;728;SSD;SS;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Sudan;729;SDN;SD;Country/Area;Northern Africa and Western Asia;Low-income Countries;Sub-Saharan Africa
+Togo;768;TGO;TG;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Uganda;800;UGA;UG;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+United Republic of Tanzania;834;TZA;TZ;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
+Zambia;894;ZMB;ZM;Country/Area;Sub-Saharan Africa;Low-income Countries;Sub-Saharan Africa
+Zimbabwe;716;ZWE;ZW;Country/Area;Sub-Saharan Africa;Lower-middle-income Countries;Sub-Saharan Africa
