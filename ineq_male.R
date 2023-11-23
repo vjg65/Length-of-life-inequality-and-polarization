@@ -2,8 +2,6 @@
 # Estimation of lifespan inequality and polarisation   (male pop.) #
 ####################################################################
 rm(list=ls())
-setwd("C:/Users/jordav/OneDrive - UNICAN/Art?culos/Paper on lifespan inequality/Results_codes_2022")
-
 data.bs <- read.csv("life_tables_all.csv", header=T)
 nrow(data.bs)
 # Keep only data on Male population
