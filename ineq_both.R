@@ -2,10 +2,7 @@
 # Estimation of lifespan inequality and polarisation (both sexes)  #
 ####################################################################
 rm(list=ls())
-setwd("C:/Users/jordav/OneDrive - UNICAN/Art?culos/Paper on lifespan inequality/Results_codes_2022")
-
 data.bs <- read.csv("life_tables_all.csv", header=T)
-names(data.bs)
 
 #Change in the names of the countries to make them match with geo data (for the shiny app)
 data.bs$Location[data.bs$Location =="Bolivia (Plurinational State of)"]<-"Bolivia"
@@ -31,8 +28,6 @@ data.bs$Location[data.bs$Location =="United States of America"]<-"USA"
 data.bs$Location[data.bs$Location =="United States Virgin Islands"]<-"Virgin Islands"
 data.bs$Location[data.bs$Location =="Venezuela (Bolivarian Republic of)"]<-"Venezuela"
 data.bs$Location[data.bs$Location =="Viet Nam"]<-"Vietnam"
-
-
 
 # We divide the data into sexes
 data.men <- data.bs[data.bs$Sex == "Male", ]
