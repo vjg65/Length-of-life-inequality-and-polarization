@@ -70,8 +70,6 @@ for (i in 1:nrow(ineq.men)){
 end_time <- Sys.time()
 end_time - start_time
 
-
-
 #-------------------------------------------------------------------#
 # Lifespan inequality for the adult population								      #
 # We truncate the distributions at the age of 15  							    #
@@ -113,7 +111,6 @@ for (i in 1:nrow(ineq.men)){
   }
   ineq.men.t[i, 9] <- sum(gini.d)/(2*le)
 }
-
 datos <- merge(ineq.men,ineq.men.t, by= c("year", "id"))
 
 ####################################################################
@@ -145,29 +142,4 @@ data.final <- merge(data.f, data.m, by.x = c("id", "year"), by.y = c("id", "Year
 nrow(data.final)
 names(data.final)
 
-write.csv(data.final, "ineq_pol_male.csv")
-
-
-#############################
-# apaño para corregir la población
-# habíamos usado la total en lugar de la de los hombres
-# no incluir en el replication code
-#############################
-
-# Add data on female population:
-data.f <- read.csv("ineq_pol_male.csv", header=T)
-names(data.f)
-data.f <- data.f[, -c(1, 36:37)]
-head(data.f)
-
-pop<- read.csv("population_male.csv", header=T,  sep = ";",na.strings = "...")
-nrow(pop)
-names(pop)
-pop$tot.pop <- apply(pop[, 4:24],1, sum)
-pop$adult.pop <- apply(pop[, 7:24],1, sum)
-data.m <- pop[, c(2, 3, 25, 26)]
-summary(data.m)
-
-data.final <- merge(data.f, data.m, by.x = c("id", "year"), by.y = c("id", "Year"))
-names(data.final)
 write.csv(data.final, "ineq_pol_male.csv")
