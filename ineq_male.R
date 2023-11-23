@@ -6,7 +6,7 @@ setwd("C:/Users/jordav/OneDrive - UNICAN/Art?culos/Paper on lifespan inequality/
 
 data.bs <- read.csv("life_tables_all.csv", header=T)
 nrow(data.bs)
-# Keep only data on female population
+# Keep only data on Male population
 data.men <- data.bs[data.bs$Sex == "Male", ]
 rm(data.bs)
 
