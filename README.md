@@ -19,7 +19,7 @@ This repository includes code to compute and assemble the database and the table
 2. *ineq_female.R* can be used to reproduce the estimates on polarization and inequality for the female population, including the whole population and only those individuals aged over 15.
 3. *ineq_male.R* can be used to reproduce the estimates on polarization and inequality for the male population, including the whole population and only those individuals aged over 15.
 
-To run any of the codes above, data from abridged life tables available at [https://population.un.org/wpp/Download/Standard/Mortality/](https://population.un.org/wpp/Download/Standard/Mortality/) must be downloaded.
+To run any of the codes above, data from World Population Prospects on abridged life tables available at [https://population.un.org/wpp/Download/Standard/Mortality/](https://population.un.org/wpp/Download/Standard/Mortality/) must be downloaded.
 
 4. *example_dist.R* reproduces Figure 1.
 5. *maps.R* generates Figure 2.
